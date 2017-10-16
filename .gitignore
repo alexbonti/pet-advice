@@ -1,0 +1,16 @@
+# build dir
+dist
+
+# npm
+node_modules
+.npm
+npm-debug.log
+
+# flow
+flow-typed/npm
+
+# misc
+**/*.emotion.css
+.esm-cache
+.DS_Store
+.idea
